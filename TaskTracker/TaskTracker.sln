@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB 3E - C- Task Tracking Application Team Project Part 1 of 2", "LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj", "{481FBD5A-5290-4DC5-9854-70C01241B5FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskTracker", "TaskTracker.csproj", "{CBF0A318-50E5-40DC-A8D4-C20A9BAF64D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{481FBD5A-5290-4DC5-9854-70C01241B5FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{481FBD5A-5290-4DC5-9854-70C01241B5FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{481FBD5A-5290-4DC5-9854-70C01241B5FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{481FBD5A-5290-4DC5-9854-70C01241B5FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF0A318-50E5-40DC-A8D4-C20A9BAF64D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF0A318-50E5-40DC-A8D4-C20A9BAF64D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF0A318-50E5-40DC-A8D4-C20A9BAF64D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF0A318-50E5-40DC-A8D4-C20A9BAF64D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8EF77C9F-1108-4678-B66C-429D77405D3F}
+		SolutionGuid = {CC51EAFD-C6EF-40C4-A77F-9C37CCF4F74A}
 	EndGlobalSection
 EndGlobal

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikki\\Documents\\MSSA\\Labs\\C#\\Lab3E\\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj",
-      "projectName": "LAB 3E - C- Task Tracking Application Team Project Part 1 of 2",
-      "projectPath": "C:\\Users\\Nikki\\Documents\\MSSA\\Labs\\C#\\Lab3E\\LAB 3E - C- Task Tracking Application Team Project Part 1 of 2.csproj",
+      "projectUniqueName": "C:\\Users\\Nikki\\Documents\\MSSA\\GitHub Projects\\TaskTracker\\TaskTracker.csproj",
+      "projectName": "TaskTracker",
+      "projectPath": "C:\\Users\\Nikki\\Documents\\MSSA\\GitHub Projects\\TaskTracker\\TaskTracker.csproj",
       "packagesPath": "C:\\Users\\Nikki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikki\\Documents\\MSSA\\Labs\\C#\\Lab3E\\obj\\",
+      "outputPath": "C:\\Users\\Nikki\\Documents\\MSSA\\GitHub Projects\\TaskTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
