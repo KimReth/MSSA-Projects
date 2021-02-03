@@ -60,7 +60,6 @@ namespace TaskTrackingApp
         public void ViewTaskList()
         {
             Console.Clear();
-
             string root = @"C:\Temp";
             string[] fileEntries = Directory.GetFiles(root);
             string[] taskNames = new string[fileEntries.Count()];
