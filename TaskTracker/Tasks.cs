@@ -90,7 +90,7 @@ namespace TaskTrackingApp
             {
                 if (input.ToLower() == taskNames[i].ToLower())
                 {
-                    Console.WriteLine($"This task entails...\n {fileEntries[i]}");
+                    Console.WriteLine($"This task entails...\n {taskNames[i]}");
                     using (StreamReader sr = new StreamReader(root + taskNames[i] + ".txt"))
                     {
                         string line;
