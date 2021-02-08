@@ -1,4 +1,4 @@
-# Projects
+# MSSA Projects
 This is a collection of projects that I've created. Enjoy!
 
 MathApp:
