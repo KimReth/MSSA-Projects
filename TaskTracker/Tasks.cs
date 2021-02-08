@@ -102,7 +102,7 @@ namespace TaskTrackingApp
                     DeleteTask(taskNames, root, i);
                 }
             }
-            if (input == "Return" || input == "return" || input == "RETURN")
+            if (input.ToLower() == "return")
             {
                 StartMenu start = new StartMenu();
                 Console.Clear();
