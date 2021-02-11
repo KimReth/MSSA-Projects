@@ -1,5 +1,5 @@
 # MSSA Projects
-This is a collection of projects that I've created. Enjoy!
+This is a collection of projects that I've created while attending MSSA. Enjoy!
 
 MathApp:
 This is a simple Windows Form Application that can add, subtract, multiply, or divide two numbers that the user inputs.
