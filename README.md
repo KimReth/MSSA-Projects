@@ -22,6 +22,9 @@
     <li>Moon Miner
       <ul> A Windows Form game! Mine various resources from different planets and sell them at the Galactic Trade Federation. Buy 10 ships to win, but look out for the Resource Jackers along the way! Some of them are a bit greedy... This was a group project developed in a 14 day sprint. </ul>
     </li>
+    <li>Password-Encryption
+      <ul> A password authentication console application. A user can create a username and password which can then be used to authenticate themself. When a password is created for an account, it undergoes a SHA256 hash. Upon exiting the program, all username/password pairs are lost. </ul>
+    </li>
   </ul>
   
  </p>
